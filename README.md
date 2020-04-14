@@ -6,12 +6,12 @@ Sigrun RavenWolf metaphysics website will be written using primariliy React but 
 
 ## What this site will include
 The client requests that the following pages at minimum be included in the finished product.
-  -Home page
-  -About page
-  -Contact page
-  -Products and Services page
-  -Terms and Conditions page
-  -Blog and Testimonials page
+  - Home page
+  - About page
+  - Contact page
+  - Products and Services page
+  - Terms and Conditions page
+  - Blog and Testimonials page
 The names of pages may change to reflect changes made with permission or by request of the client.
 
 ## Contributions
