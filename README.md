@@ -11,7 +11,7 @@ The client requests that the following pages at minimum be included in the finis
   - Contact page
   - Products and Services page
   - Terms and Conditions page
-  - Blog and Testimonials page
+  - Blog and Testimonials page<br>
 The names of pages may change to reflect changes made with permission or by request of the client.
 
 ## Contributions
